@@ -1,0 +1,42 @@
+body {
+    background: #eee;
+}
+.wizardPanel {
+    background: #eee;
+    width: 100%;
+    border-left: thin solid #aaa;
+    border-bottom: thin solid #aaa;
+    border-top: thin solid #ccc;
+    border-right: thin solid #ccc;
+    margin-top: 10px;
+}
+.work {
+	margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 30px;
+}
+.heading {
+    background: #ddd;
+    border-bottom: thin solid #aaa;
+    border-left: thin solid #aaa;
+    border-top: thin solid #ccc;
+    border-right: thin solid #ccc;
+    width: 97%;
+    padding: 10px;
+    font-size: 1.2em;
+}
+.subheading {
+    background: #ffe;
+    font-size: 1.0em;
+    width: 93%;
+    border-left: thin solid #aaa;
+    border-bottom: thin solid #aaa;
+    border-top: thin solid #ccc;
+    border-right: thin solid #ccc;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding: 10px;
+}
+.controls {
+    font-size: 0.8em;
+}
